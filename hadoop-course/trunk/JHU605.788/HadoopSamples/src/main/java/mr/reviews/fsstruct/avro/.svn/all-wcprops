@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/156/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/avro
+END
+ReviewAvroMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/83/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/avro/ReviewAvroMapper.java
+END
+AvroReaderReflect.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/87/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/avro/AvroReaderReflect.java
+END
+AvroReaderSpecific.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/151/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/avro/AvroReaderSpecific.java
+END
+AvroWriterGeneric.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/151/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/avro/AvroWriterGeneric.java
+END
+ReviewAvroReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/83/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/avro/ReviewAvroReducer.java
+END
+AvroReaderGenericWithSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/88/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/avro/AvroReaderGenericWithSchema.java
+END
+AvroSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/153/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/avro/AvroSorter.java
+END
+AvroReaderSpecificV2.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/151/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/avro/AvroReaderSpecificV2.java
+END
+ReviewAvroCombiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/83/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/avro/ReviewAvroCombiner.java
+END
+AvroWriterReflect.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/87/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/avro/AvroWriterReflect.java
+END
+AvroWriterSpecific.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/87/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/avro/AvroWriterSpecific.java
+END
+ReviewAvroInputMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/83/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/avro/ReviewAvroInputMapper.java
+END
+AvroAppenderGeneric.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/156/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/avro/AvroAppenderGeneric.java
+END
+ReviewAvroOutputReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/83/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/avro/ReviewAvroOutputReducer.java
+END
+ReviewAvroJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/151/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/avro/ReviewAvroJob.java
+END
+ReviewAvroInputOutputJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/153/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/avro/ReviewAvroInputOutputJob.java
+END
+ValidateAvroSorting.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/84/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/avro/ValidateAvroSorting.java
+END
+AvroReaderGeneric.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/88/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/avro/AvroReaderGeneric.java
+END

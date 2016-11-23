@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/88/trunk/JHU605.788/HadoopSamples/src/main/resources/mr/reviews/fsstruct/avro/readModel
+END
+review_newField.avsc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/88/trunk/JHU605.788/HadoopSamples/src/main/resources/mr/reviews/fsstruct/avro/readModel/review_newField.avsc
+END
+review_removedField.avsc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/88/trunk/JHU605.788/HadoopSamples/src/main/resources/mr/reviews/fsstruct/avro/readModel/review_removedField.avsc
+END
+review_sort.avsc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/87/trunk/JHU605.788/HadoopSamples/src/main/resources/mr/reviews/fsstruct/avro/readModel/review_sort.avsc
+END
+review_aliasing.avsc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/88/trunk/JHU605.788/HadoopSamples/src/main/resources/mr/reviews/fsstruct/avro/readModel/review_aliasing.avsc
+END
+review_newNullField.avsc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/88/trunk/JHU605.788/HadoopSamples/src/main/resources/mr/reviews/fsstruct/avro/readModel/review_newNullField.avsc
+END

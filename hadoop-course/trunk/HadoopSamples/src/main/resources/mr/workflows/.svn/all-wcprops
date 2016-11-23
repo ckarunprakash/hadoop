@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/48/trunk/HadoopSamples/src/main/resources/mr/workflows
+END
+job.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/48/trunk/HadoopSamples/src/main/resources/mr/workflows/job.properties
+END
+workflow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/resources/mr/workflows/workflow.xml
+END

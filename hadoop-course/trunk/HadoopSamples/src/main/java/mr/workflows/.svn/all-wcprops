@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/56/trunk/HadoopSamples/src/main/java/mr/workflows
+END
+MostSeenStartLetterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/mr/workflows/MostSeenStartLetterMapper.java
+END
+MostSeenStartLetterJobControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/56/trunk/HadoopSamples/src/main/java/mr/workflows/MostSeenStartLetterJobControl.java
+END
+MostSeendStartLetterReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/mr/workflows/MostSeendStartLetterReducer.java
+END

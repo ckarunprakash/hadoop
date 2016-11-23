@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/mr/wholeFile
+END
+WholeFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/mr/wholeFile/WholeFileInputFormat.java
+END
+WholeFileRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/mr/wholeFile/WholeFileRecordReader.java
+END

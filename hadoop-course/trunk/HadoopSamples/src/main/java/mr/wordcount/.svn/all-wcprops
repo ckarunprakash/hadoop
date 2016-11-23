@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/57/trunk/HadoopSamples/src/main/java/mr/wordcount
+END
+StartsWithCountJob_DistCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/54/trunk/HadoopSamples/src/main/java/mr/wordcount/StartsWithCountJob_DistCache.java
+END
+StartsWithCountMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/56/trunk/HadoopSamples/src/main/java/mr/wordcount/StartsWithCountMapper.java
+END
+CustomPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/mr/wordcount/CustomPartitioner.java
+END
+StartsWithCountJob_PrintLocalCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/54/trunk/HadoopSamples/src/main/java/mr/wordcount/StartsWithCountJob_PrintLocalCache.java
+END
+StartsWithCountMapper_HBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/mr/wordcount/StartsWithCountMapper_HBase.java
+END
+StartsWithCountReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/15/trunk/HadoopSamples/src/main/java/mr/wordcount/StartsWithCountReducer.java
+END
+StartWithCountJob_HBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/54/trunk/HadoopSamples/src/main/java/mr/wordcount/StartWithCountJob_HBase.java
+END
+StartsWithCountJob_UserCounters.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/54/trunk/HadoopSamples/src/main/java/mr/wordcount/StartsWithCountJob_UserCounters.java
+END
+StartsWithCountMapper_DistCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/mr/wordcount/StartsWithCountMapper_DistCache.java
+END
+StartsWithCountReducer_HBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/57/trunk/HadoopSamples/src/main/java/mr/wordcount/StartsWithCountReducer_HBase.java
+END
+StartsWithCountMapper_PrintLocalCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/mr/wordcount/StartsWithCountMapper_PrintLocalCache.java
+END
+Populate_HBaseSamples_forCountJobs.dml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/mr/wordcount/Populate_HBaseSamples_forCountJobs.dml
+END
+StartsWithCountMapper_UserCounters_Tokens.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/mr/wordcount/StartsWithCountMapper_UserCounters_Tokens.properties
+END
+StartsWithCountMapper_UserCounters.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/mr/wordcount/StartsWithCountMapper_UserCounters.java
+END
+StartsWithCountJob_PrintCounters.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/54/trunk/HadoopSamples/src/main/java/mr/wordcount/StartsWithCountJob_PrintCounters.java
+END
+StartWithCountJob_HBaseInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/54/trunk/HadoopSamples/src/main/java/mr/wordcount/StartWithCountJob_HBaseInput.java
+END
+StartsWithCountJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/27/trunk/HadoopSamples/src/main/java/mr/wordcount/StartsWithCountJob.java
+END
+StartsWithCountJob_DistCacheAPI.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/54/trunk/HadoopSamples/src/main/java/mr/wordcount/StartsWithCountJob_DistCacheAPI.java
+END
+StartsWithCountJob_NLineInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/54/trunk/HadoopSamples/src/main/java/mr/wordcount/StartsWithCountJob_NLineInput.java
+END

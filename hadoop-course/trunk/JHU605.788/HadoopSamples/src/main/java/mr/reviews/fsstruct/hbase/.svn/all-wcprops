@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/106/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/hbase
+END
+ReviewsReportViaHTables.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/100/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/hbase/ReviewsReportViaHTables.java
+END
+ReviewsReportByUserKeywordMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/100/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/hbase/ReviewsReportByUserKeywordMapper.java
+END
+ReviewHBaseSchema.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/106/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/hbase/ReviewHBaseSchema.java
+END
+FindReviewsByKeyword.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/100/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/hbase/FindReviewsByKeyword.java
+END
+StoreReviewsToHBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/99/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/hbase/StoreReviewsToHBase.java
+END
+StoreReviewToHBaseMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/100/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/hbase/StoreReviewToHBaseMapper.java
+END
+ReviewsReportByUserKeywordReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/105/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/hbase/ReviewsReportByUserKeywordReducer.java
+END
+FindReviewsByKeywordMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/105/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/hbase/FindReviewsByKeywordMapper.java
+END
+ReviewsReportViaHTablesReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/100/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/hbase/ReviewsReportViaHTablesReducer.java
+END
+ReviewsReportByUserKeyword.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/103/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/hbase/ReviewsReportByUserKeyword.java
+END

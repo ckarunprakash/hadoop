@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/142/trunk/JHU605.788/HadoopSamples/src/main/java/crunch/reviews/avro
+END
+FindReviewsDoFn1.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/133/trunk/JHU605.788/HadoopSamples/src/main/java/crunch/reviews/avro/FindReviewsDoFn1.java
+END
+ReportsCombineFn.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/132/trunk/JHU605.788/HadoopSamples/src/main/java/crunch/reviews/avro/ReportsCombineFn.java
+END
+ReviewReportCrunch.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/142/trunk/JHU605.788/HadoopSamples/src/main/java/crunch/reviews/avro/ReviewReportCrunch.java
+END
+ReviewReportCrunch1.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/142/trunk/JHU605.788/HadoopSamples/src/main/java/crunch/reviews/avro/ReviewReportCrunch1.java
+END
+FindReviewsDoFn.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/133/trunk/JHU605.788/HadoopSamples/src/main/java/crunch/reviews/avro/FindReviewsDoFn.java
+END

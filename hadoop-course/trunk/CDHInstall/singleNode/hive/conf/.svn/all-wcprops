@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/20/trunk/CDHInstall/singleNode/hive/conf
+END
+hive-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/20/trunk/CDHInstall/singleNode/hive/conf/hive-site.xml
+END
+hive-log4j.properties.template
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/20/trunk/CDHInstall/singleNode/hive/conf/hive-log4j.properties.template
+END
+hive-exec-log4j.properties.template
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/20/trunk/CDHInstall/singleNode/hive/conf/hive-exec-log4j.properties.template
+END
+hive-env.sh.template
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/20/trunk/CDHInstall/singleNode/hive/conf/hive-env.sh.template
+END
+hive-default.xml.template
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/20/trunk/CDHInstall/singleNode/hive/conf/hive-default.xml.template
+END

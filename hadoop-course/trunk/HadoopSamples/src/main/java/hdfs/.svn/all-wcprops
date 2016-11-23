@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/12/trunk/HadoopSamples/src/main/java/hdfs
+END
+BadRename.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/hdfs/BadRename.java
+END
+DeleteFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/hdfs/DeleteFile.java
+END
+CopyToHdfs.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/hdfs/CopyToHdfs.java
+END
+SeekReadFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/hdfs/SeekReadFile.java
+END
+BadWriteToFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/hdfs/BadWriteToFile.java
+END
+MkDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/hdfs/MkDir.java
+END
+SimpleLs.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/hdfs/SimpleLs.java
+END
+LoadConfigurations.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/hdfs/LoadConfigurations.java
+END
+ReadFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/HadoopSamples/src/main/java/hdfs/ReadFile.java
+END
+SimpleGlobbing.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/hdfs/SimpleGlobbing.java
+END
+GenerateABigFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/hdfs/GenerateABigFile.java
+END
+LsWithPathFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/hdfs/LsWithPathFilter.java
+END
+WriteToFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/HadoopSamples/src/main/java/hdfs/WriteToFile.java
+END

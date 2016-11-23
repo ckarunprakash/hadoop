@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/85/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/seq
+END
+SequenceFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/85/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/seq/SequenceFileReader.java
+END
+ReviewSequenceFileJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/79/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/seq/ReviewSequenceFileJob.java
+END
+ReviewSequenceFileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/79/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/seq/ReviewSequenceFileWriter.java
+END

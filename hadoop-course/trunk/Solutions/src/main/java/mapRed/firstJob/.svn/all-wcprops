@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/54/trunk/Solutions/src/main/java/mapRed/firstJob
+END
+WordCountMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/25/trunk/Solutions/src/main/java/mapRed/firstJob/WordCountMapper.java
+END
+WordCountReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/25/trunk/Solutions/src/main/java/mapRed/firstJob/WordCountReducer.java
+END
+LengthDividerCountTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/26/trunk/Solutions/src/main/java/mapRed/firstJob/LengthDividerCountTool.java
+END
+WordCountTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/54/trunk/Solutions/src/main/java/mapRed/firstJob/WordCountTool.java
+END
+LengthDividerCountMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/25/trunk/Solutions/src/main/java/mapRed/firstJob/LengthDividerCountMapper.java
+END

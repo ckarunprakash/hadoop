@@ -1,0 +1,32 @@
+create 'HBaseSamples', {NAME=>'test'}, {NAME=>'metrics'}, {NAME=>'columns'}
+
+put 'HBaseSamples', 'row-01', 'metrics:counter', 'val1'
+put 'HBaseSamples', 'row-02', 'metrics:counter', 'val2'
+put 'HBaseSamples', 'row-03', 'metrics:counter', 'val3'
+put 'HBaseSamples', 'row-04', 'metrics:counter', 'val4'
+put 'HBaseSamples', 'row-05', 'metrics:counter', 'val5'
+put 'HBaseSamples', 'row-06', 'metrics:counter', 'val6'
+put 'HBaseSamples', 'row-07', 'metrics:counter', 'val7'
+put 'HBaseSamples', 'row-08', 'metrics:counter', 'val8'
+put 'HBaseSamples', 'row-09', 'metrics:counter', 'val9'
+put 'HBaseSamples', 'row-10', 'metrics:counter', 'val10'
+put 'HBaseSamples', 'row-11', 'metrics:counter', 'val11'
+put 'HBaseSamples', 'row-12', 'metrics:counter', 'val12'
+put 'HBaseSamples', 'row-13', 'metrics:counter', 'val13'
+put 'HBaseSamples', 'row-14', 'metrics:counter', 'val14'
+put 'HBaseSamples', 'row-15', 'metrics:counter', 'val15'
+put 'HBaseSamples', 'row-16', 'metrics:counter', 'val16'
+put 'HBaseSamples', 'row-17', 'metrics:counter', 'val17'
+
+put 'HBaseSamples', 'batchExample_row_01', 'columns:col1', 'Row1col1'
+put 'HBaseSamples', 'batchExample_row_01', 'columns:col2', 'Row1col2'
+put 'HBaseSamples', 'batchExample_row_01', 'columns:col3', 'Row1col3'
+put 'HBaseSamples', 'batchExample_row_01', 'columns:col4', 'Row1col4'
+
+put 'HBaseSamples', 'batchExample_row_02', 'columns:col1', 'Row2col1'
+put 'HBaseSamples', 'batchExample_row_02', 'columns:col2', 'Row2col2'
+put 'HBaseSamples', 'batchExample_row_02', 'columns:col3', 'Row2col3'
+
+create 'ReviewTable', {NAME=>'reviews',COMPRESSION=>'snappy'}
+create 'ReviewReportTable', {NAME=>'reviewKeywordHits',COMPRESSION=>'snappy'}, {NAME=>'reviewKeywordReport',COMPRESSION=>'snappy'}
+

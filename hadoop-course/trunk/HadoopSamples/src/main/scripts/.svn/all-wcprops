@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/46/trunk/HadoopSamples/src/main/scripts
+END
+countReduce.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/46/trunk/HadoopSamples/src/main/scripts/countReduce.py
+END
+countMap.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/46/trunk/HadoopSamples/src/main/scripts/countMap.py
+END
+testText.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/46/trunk/HadoopSamples/src/main/scripts/testText.txt
+END

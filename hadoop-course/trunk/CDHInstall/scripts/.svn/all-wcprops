@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/58/trunk/CDHInstall/scripts
+END
+hadoop-env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/47/trunk/CDHInstall/scripts/hadoop-env.sh
+END
+stopCDH.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/47/trunk/CDHInstall/scripts/stopCDH.sh
+END
+runOozieWorkflow.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/47/trunk/CDHInstall/scripts/runOozieWorkflow.sh
+END
+testAllJobs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/53/trunk/CDHInstall/scripts/testAllJobs.sh
+END
+cleanUp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/58/trunk/CDHInstall/scripts/cleanUp.sh
+END
+startCDH.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/20/trunk/CDHInstall/scripts/startCDH.sh
+END

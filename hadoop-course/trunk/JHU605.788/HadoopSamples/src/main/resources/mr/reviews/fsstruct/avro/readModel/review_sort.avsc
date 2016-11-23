@@ -1,0 +1,10 @@
+{
+	"name": "ReviewAvro",
+	"type": "record",
+	"namespace": "mr.reviews.fsstruct.avro.model",
+	"fields": [
+		{"name": "user", "type": "string", "order":"ignore"},
+		{"name": "text", "type": "string", "order":"ignore"},
+		{"name": "timestamp", "type": "long", "order":"descending"} 
+	]
+}

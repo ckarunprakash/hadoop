@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<configuration>
+	<property>
+		<name>report.value</name>
+		<value>invaluable,affordable</value>
+	</property>
+	<property>
+		<name>report.input.path</name>
+		<value>examples_input/reviews-xml/</value>
+	</property>
+	<property>
+		<name>report.output.path</name>
+		<value>/training/out/reviews/</value>
+	</property>
+	<property>
+		<name>mapreduce.job.reduces</name>
+		<value>5</value>
+	</property>
+</configuration>

@@ -1,0 +1,13 @@
+{
+	"name": "ReviewReportAvro",
+	"type": "record",
+	"namespace": "mr.reviews.fsstruct.avro.model",
+	"fields": [
+		{"name": "user", "type": "string"},
+		{"name": "keyword", "type": "string"},
+		{"name": "numReviews", "type": "int"},
+		{"name": "reviews", "type": 
+			{"type":"array", "items": "mr.reviews.fsstruct.avro.model.ReviewAvro"}
+		}
+	]
+}

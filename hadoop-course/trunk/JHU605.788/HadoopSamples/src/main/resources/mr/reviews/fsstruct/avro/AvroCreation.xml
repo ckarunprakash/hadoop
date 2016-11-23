@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<configuration>
+	<property>
+		<name>report.input.path</name>
+		<value>examples_input/reviews-xml/</value>
+	</property>
+	<property>
+		<name>report.output.path</name>
+		<value>examples_input/reviews-avro/reviews.avro</value>
+	</property>
+</configuration>

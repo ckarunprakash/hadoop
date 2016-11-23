@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+   <property>
+    <name>mapreduce.cluster.temp.dir</name>
+    <value>/home/hadoop/Training/hadoop_work/mapred/temp</value>
+    <final>true</final>
+  </property>
+
+  <property>
+    <name>mapreduce.cluster.local.dir</name>
+    <value>/home/hadoop/Training/hadoop_work/mapred/local</value>
+    <final>true</final>
+  </property>
+
+  <property>
+    <name>mapreduce.framework.name</name>
+    <value>yarn</value>
+    <description>Use YARN as the servicer of MapReduce, if not specified Local Job Runner is used</description>
+  </property>
+
+  <property>
+    <name>mapred.submit.replication</name>
+    <value>1</value>
+    <description>Replication factor on HDFS for the resources required to execute a job</description>
+  </property>
+
+  <property>
+    <name>mapreduce.map.memory.mb</name>
+    <value>128</value>
+    <description>The memory that will be allocated for a mapper task, default is 1g</description>
+  </property>
+  <property>
+    <name>mapreduce.map.java.opts</name>
+    <value>-Xmx100m</value>
+    <description>JVM Heap size for Map tasks</description>
+  </property>
+  <property>
+    <name>mapreduce.reduce.memory.mb</name>
+    <value>128</value>
+    <description>The memory that will be allocated for a reduce task, default is 1g</description>
+  </property>
+  <property>
+    <name>mapreduce.reduce.java.opts</name>
+    <value>-Xmx100m</value>
+    <description>JVM Heap size for Reduce tasks</description>
+  </property>
+  <property>
+    <name>yarn.nodemanager.vmem-pmem-ratio</name>
+    <value>5</value>
+    <description>Virtual Memory usage per container. Default is 2.1; in our case for 128mb container the Virtual Memory limit will be set to 128mb*5=640mb</description>
+  </property>
+  <property>
+    <name>mapreduce.task.io.sort.mb</name>
+    <value>32</value>
+    <description>The total amount of buffer memory to use while sorting files, in megabytes.</description>
+  </property>
+  <property>
+    <name>mapreduce.jobhistory.joblist.cache.size</name>
+    <value>100</value>
+    <description>Number of Jobs Histor Server keeps</description>
+  </property>
+
+</configuration>

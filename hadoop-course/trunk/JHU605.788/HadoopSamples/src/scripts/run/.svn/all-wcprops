@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/161/trunk/JHU605.788/HadoopSamples/src/scripts/run
+END
+examplesAvro.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/160/trunk/JHU605.788/HadoopSamples/src/scripts/run/examplesAvro.sh
+END
+examplesFirstMapReduceJob.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/150/trunk/JHU605.788/HadoopSamples/src/scripts/run/examplesFirstMapReduceJob.sh
+END
+examplesMapReduceJoins.sh
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/159/trunk/JHU605.788/HadoopSamples/src/scripts/run/examplesMapReduceJoins.sh
+END
+examplesStreaming.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/150/trunk/JHU605.788/HadoopSamples/src/scripts/run/examplesStreaming.sh
+END
+examplesMapReduceComponents.sh
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/143/trunk/JHU605.788/HadoopSamples/src/scripts/run/examplesMapReduceComponents.sh
+END
+sharedProps.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/151/trunk/JHU605.788/HadoopSamples/src/scripts/run/sharedProps.sh
+END
+examplesFileBasedDataStructures.sh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/150/trunk/JHU605.788/HadoopSamples/src/scripts/run/examplesFileBasedDataStructures.sh
+END
+examplesWorkflows.sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/160/trunk/JHU605.788/HadoopSamples/src/scripts/run/examplesWorkflows.sh
+END
+jobExecSupport.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/143/trunk/JHU605.788/HadoopSamples/src/scripts/run/jobExecSupport.sh
+END
+examplesPig.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/161/trunk/JHU605.788/HadoopSamples/src/scripts/run/examplesPig.sh
+END
+examplesCompression.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/149/trunk/JHU605.788/HadoopSamples/src/scripts/run/examplesCompression.sh
+END
+examplesHBase.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/143/trunk/JHU605.788/HadoopSamples/src/scripts/run/examplesHBase.sh
+END
+examplesHDFS.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/143/trunk/JHU605.788/HadoopSamples/src/scripts/run/examplesHDFS.sh
+END
+examplesMapReduceFeatures.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/143/trunk/JHU605.788/HadoopSamples/src/scripts/run/examplesMapReduceFeatures.sh
+END

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<configuration>
+	<property>
+		<name>report.value</name>
+		<value>i</value>
+	</property>
+	<property>
+		<name>report.input.path</name>
+		<value>examples_input/user-posts-US.txt</value>
+	</property>
+	<property>
+		<name>report.output.path</name>
+		<value>/training/playArea/reviews</value>
+	</property>
+</configuration>

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/129/trunk/JHU605.788/HadoopSamples/src/main/resources/hive
+END
+SimpleExample.hql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/128/trunk/JHU605.788/HadoopSamples/src/main/resources/hive/SimpleExample.hql
+END
+HBaseExample.hql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/128/trunk/JHU605.788/HadoopSamples/src/main/resources/hive/HBaseExample.hql
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/35/trunk/Solutions/src/main/resources/mapRed/streaming
+END
+CountUniqueMapper.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/34/trunk/Solutions/src/main/resources/mapRed/streaming/CountUniqueMapper.py
+END
+inputTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/35/trunk/Solutions/src/main/resources/mapRed/streaming/inputTest.txt
+END
+CountUniqueReducer.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/34/trunk/Solutions/src/main/resources/mapRed/streaming/CountUniqueReducer.py
+END
+LengthDividerMapper.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/34/trunk/Solutions/src/main/resources/mapRed/streaming/LengthDividerMapper.py
+END

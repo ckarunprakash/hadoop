@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/29/trunk/Exercises/src/main/java/mapRed/inputAndOutput
+END
+UniqueCounterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/29/trunk/Exercises/src/main/java/mapRed/inputAndOutput/UniqueCounterMapper.java
+END
+CountTokens.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/29/trunk/Exercises/src/main/java/mapRed/inputAndOutput/CountTokens.java
+END
+UniqueCounterReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/29/trunk/Exercises/src/main/java/mapRed/inputAndOutput/UniqueCounterReducer.java
+END
+UniqueCounterTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/29/trunk/Exercises/src/main/java/mapRed/inputAndOutput/UniqueCounterTool.java
+END

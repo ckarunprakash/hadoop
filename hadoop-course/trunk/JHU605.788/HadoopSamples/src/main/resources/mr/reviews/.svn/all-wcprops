@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/142/trunk/JHU605.788/HadoopSamples/src/main/resources/mr/reviews
+END
+ReviewsJob-tinyInput.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/142/trunk/JHU605.788/HadoopSamples/src/main/resources/mr/reviews/ReviewsJob-tinyInput.xml
+END
+ReviewsJob-smallInput.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/142/trunk/JHU605.788/HadoopSamples/src/main/resources/mr/reviews/ReviewsJob-smallInput.xml
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/156/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews
+END
+ReviewMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/75/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/ReviewMapper.java
+END
+ReviewInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/65/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/ReviewInputFormat.java
+END
+ReviewReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/65/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/ReviewReducer.java
+END
+ReviewOutputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/65/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/ReviewOutputFormat.java
+END
+ReviewJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/65/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/ReviewJob.java
+END
+ReviewRecordWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/65/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/ReviewRecordWriter.java
+END
+ReviewWritablesRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/65/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/ReviewWritablesRecordReader.java
+END

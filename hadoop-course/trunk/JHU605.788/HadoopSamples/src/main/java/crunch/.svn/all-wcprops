@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/142/trunk/JHU605.788/HadoopSamples/src/main/java/crunch
+END
+BadDoFn.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/131/trunk/JHU605.788/HadoopSamples/src/main/java/crunch/BadDoFn.java
+END
+BadDoFnCrunch.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/142/trunk/JHU605.788/HadoopSamples/src/main/java/crunch/BadDoFnCrunch.java
+END
+FixedDoFn.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/131/trunk/JHU605.788/HadoopSamples/src/main/java/crunch/FixedDoFn.java
+END
+StartsWithCountCrunch.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/142/trunk/JHU605.788/HadoopSamples/src/main/java/crunch/StartsWithCountCrunch.java
+END
+FixedDoFnCrunch.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/142/trunk/JHU605.788/HadoopSamples/src/main/java/crunch/FixedDoFnCrunch.java
+END
+CountFirstLettersDoFN.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/130/trunk/JHU605.788/HadoopSamples/src/main/java/crunch/CountFirstLettersDoFN.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/35/trunk/Solutions/src/main/java/mapRed/workflows
+END
+CountDistinctTokens.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/35/trunk/Solutions/src/main/java/mapRed/workflows/CountDistinctTokens.java
+END
+AverageByLetter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/35/trunk/Solutions/src/main/java/mapRed/workflows/AverageByLetter.java
+END
+JobControlWorkflow.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/35/trunk/Solutions/src/main/java/mapRed/workflows/JobControlWorkflow.java
+END

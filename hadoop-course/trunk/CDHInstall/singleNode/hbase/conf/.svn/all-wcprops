@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8/trunk/CDHInstall/singleNode/hbase/conf
+END
+hbase-site.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8/trunk/CDHInstall/singleNode/hbase/conf/hbase-site.xml
+END
+hadoop-metrics.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8/trunk/CDHInstall/singleNode/hbase/conf/hadoop-metrics.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8/trunk/CDHInstall/singleNode/hbase/conf/log4j.properties
+END
+regionservers
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8/trunk/CDHInstall/singleNode/hbase/conf/regionservers
+END
+hbase-policy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8/trunk/CDHInstall/singleNode/hbase/conf/hbase-policy.xml
+END
+hbase-env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8/trunk/CDHInstall/singleNode/hbase/conf/hbase-env.sh
+END

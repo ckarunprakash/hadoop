@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/156/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct
+END
+SimpleTextXmlJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/78/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/SimpleTextXmlJob.java
+END
+SimpleTextXmlJob_CombineFileInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/79/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/SimpleTextXmlJob_CombineFileInputFormat.java
+END
+EntireFileCombineFileTextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/78/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/EntireFileCombineFileTextInputFormat.java
+END
+EntireFileTextInputFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/76/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/EntireFileTextInputFormat.java
+END
+XmlProcessMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/78/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/XmlProcessMapper.java
+END
+EntireFileCombineInputRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/79/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/EntireFileCombineInputRecordReader.java
+END
+EntireFileRecordReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/79/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/EntireFileRecordReader.java
+END

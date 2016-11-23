@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/36/trunk/Solutions/src/main/resources/oozie/workflows
+END
+workflow.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/36/trunk/Solutions/src/main/resources/oozie/workflows/workflow.xml
+END
+job.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/36/trunk/Solutions/src/main/resources/oozie/workflows/job.properties
+END

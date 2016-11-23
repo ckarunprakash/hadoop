@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/32/trunk/Solutions/src/main/java/mapRed/features
+END
+LineSamplerMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/32/trunk/Solutions/src/main/java/mapRed/features/LineSamplerMapper.java
+END
+UniqueCounterReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/26/trunk/Solutions/src/main/java/mapRed/features/UniqueCounterReducer.java
+END
+UniqueCounterTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/26/trunk/Solutions/src/main/java/mapRed/features/UniqueCounterTool.java
+END
+LineSamplerReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/32/trunk/Solutions/src/main/java/mapRed/features/LineSamplerReducer.java
+END
+LineSamplerTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/32/trunk/Solutions/src/main/java/mapRed/features/LineSamplerTool.java
+END
+UniqueCounterMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/26/trunk/Solutions/src/main/java/mapRed/features/UniqueCounterMapper.java
+END

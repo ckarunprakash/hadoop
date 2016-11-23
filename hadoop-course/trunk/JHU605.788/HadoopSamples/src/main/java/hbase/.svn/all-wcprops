@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/157/trunk/JHU605.788/HadoopSamples/src/main/java/hbase
+END
+FilterListExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/154/trunk/JHU605.788/HadoopSamples/src/main/java/hbase/FilterListExample.java
+END
+ScanCachingExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/157/trunk/JHU605.788/HadoopSamples/src/main/java/hbase/ScanCachingExample.java
+END
+ValueFilterExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/154/trunk/JHU605.788/HadoopSamples/src/main/java/hbase/ValueFilterExample.java
+END
+DeleteExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/154/trunk/JHU605.788/HadoopSamples/src/main/java/hbase/DeleteExample.java
+END
+ScanExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/154/trunk/JHU605.788/HadoopSamples/src/main/java/hbase/ScanExample.java
+END
+ScanBatchingExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/154/trunk/JHU605.788/HadoopSamples/src/main/java/hbase/ScanBatchingExample.java
+END
+PutIntsExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/154/trunk/JHU605.788/HadoopSamples/src/main/java/hbase/PutIntsExample.java
+END
+PutExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/154/trunk/JHU605.788/HadoopSamples/src/main/java/hbase/PutExample.java
+END
+ConstructHTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/154/trunk/JHU605.788/HadoopSamples/src/main/java/hbase/ConstructHTable.java
+END
+CreateTableExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/154/trunk/JHU605.788/HadoopSamples/src/main/java/hbase/CreateTableExample.java
+END
+DropTableExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/154/trunk/JHU605.788/HadoopSamples/src/main/java/hbase/DropTableExample.java
+END
+CreateTableWithCompression.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/154/trunk/JHU605.788/HadoopSamples/src/main/java/hbase/CreateTableWithCompression.java
+END
+GetExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/154/trunk/JHU605.788/HadoopSamples/src/main/java/hbase/GetExample.java
+END

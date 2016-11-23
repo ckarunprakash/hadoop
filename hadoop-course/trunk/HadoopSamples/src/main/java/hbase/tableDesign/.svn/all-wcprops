@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/hbase/tableDesign
+END
+FlatAndWideTableDataFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/hbase/tableDesign/FlatAndWideTableDataFacade.java
+END
+TableDesignExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/hbase/tableDesign/TableDesignExample.java
+END
+DataFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/hbase/tableDesign/DataFacade.java
+END
+TallAndNarrowTableDataFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/hbase/tableDesign/TallAndNarrowTableDataFacade.java
+END
+Blog.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/trunk/HadoopSamples/src/main/java/hbase/tableDesign/Blog.java
+END

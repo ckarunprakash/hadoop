@@ -1,0 +1,9 @@
+{
+	"name": "ReviewKeyAvro",
+	"type": "record",
+	"namespace": "mr.reviews.fsstruct.avro.model",
+	"fields": [
+		{"name": "user", "type": "string"},
+		{"name": "keyword", "type": "string"} 
+	]
+}

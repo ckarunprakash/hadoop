@@ -1,0 +1,79 @@
+create 'Blog', {NAME=>'info'}, {NAME=>'content'}
+
+# insert row 1
+put 'Blog', 'Matt-001', 'info:title', 'Elephant'
+put 'Blog', 'Matt-001', 'info:author', 'Matt'
+put 'Blog', 'Matt-001', 'info:date', '2009.05.06'
+put 'Blog', 'Matt-001', 'content:post', 'Do elephants like monkeys?'
+
+# insert row 2
+put 'Blog', 'Matt-002', 'info:title', 'Monkey'
+put 'Blog', 'Matt-002', 'info:author', 'Matt'
+put 'Blog', 'Matt-002', 'info:date', '2011.02.14'
+put 'Blog', 'Matt-002', 'content:post', 'Do monkeys like elephants?'
+
+# insert row 3
+put 'Blog', 'Bob-003', 'info:title', 'Dog'
+put 'Blog', 'Bob-003', 'info:author', 'Bob'
+put 'Blog', 'Bob-003', 'info:date', '1995.10.20'
+put 'Blog', 'Bob-003', 'content:post', 'People own dogs!'
+
+# insert row 4
+put 'Blog', 'Michelle-004', 'info:title', 'Cat'
+put 'Blog', 'Michelle-004', 'info:author', 'Michelle'
+put 'Blog', 'Michelle-004', 'info:date', '1990.07.06'
+put 'Blog', 'Michelle-004', 'content:post', 'I have a cat!'
+
+# insert row 5
+put 'Blog', 'John-005', 'info:title', 'Mouse'
+put 'Blog', 'John-005', 'info:author', 'John'
+put 'Blog', 'John-005', 'info:date', '1990.07.06'
+put 'Blog', 'John-005', 'content:post', 'Mickey mouse.'
+
+# count just inserted data, INTERVAL specified how often counts are displayed (even N rows)
+count 'Blog', {INTERVAL=>2}  
+count 'Blog', {INTERVAL=>1}
+
+# this get won't return anything as the row-id doesn't exist
+get 'Blog', 'unknownRowId'                                  
+
+# retrieve ALL columns for the provided row-id                                    
+get 'Blog', 'Michelle-004'                    
+
+# retrieve specific columns for the provided row-id                                                 
+get 'Blog', 'Michelle-004', {COLUMN=>['info:author','content:post']}                            
+
+# retrieve data for specific columns and time-stamp
+get 'Blog', 'Michelle-004', {COLUMN=>['info:author','content:post'], TIMESTAMP=>1326061625690}
+
+# exercise different scan options
+scan 'Blog'
+scan 'Blog', {STOPROW=>'John'}
+scan 'Blog', {COLUMNS=>'info:title', STARTROW=>'John', STOPROW=>'Michelle'}
+ 
+# update the record few times and then retrieve back multiple version
+# only 3 versions are kept by default
+put 'Blog', 'Michelle-004', 'info:date', '1990.07.06'
+put 'Blog', 'Michelle-004', 'info:date', '1990.07.07'
+put 'Blog', 'Michelle-004', 'info:date', '1990.07.08'
+get 'Blog', 'Michelle-004', {COLUMN=>'info:date', VERSIONS=>3}
+get 'Blog', 'Michelle-004', {COLUMN=>'info:date', VERSIONS=>2}
+get 'Blog', 'Michelle-004', {COLUMN=>'info:date', VERSIONS=>1}
+# selects 1 by default
+get 'Blog', 'Michelle-004', {COLUMN=>'info:date'}
+
+# delete a record, delete all versions of the cell
+get 'Blog', 'Bob-003', 'info:date'
+delete 'Blog', 'Bob-003', 'info:date'
+get 'Blog', 'Bob-003', 'info:date'
+
+# delete the versions before the provided timestamp
+get 'Blog', 'Michelle-004',{COLUMN=>'info:date', VERSIONS=>3}
+delete 'Blog', 'Michelle-004', 'info:date', 1326254739791 
+get 'Blog', 'Michelle-004',{COLUMN=>'info:date', VERSIONS=>3}
+
+# drop the table
+list
+disable 'Blog'
+drop 'Blog'
+list

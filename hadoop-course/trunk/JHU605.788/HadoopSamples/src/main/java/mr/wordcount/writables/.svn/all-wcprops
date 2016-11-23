@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/148/trunk/JHU605.788/HadoopSamples/src/main/java/mr/wordcount/writables
+END
+StartsWithCountJob_ObjectWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/148/trunk/JHU605.788/HadoopSamples/src/main/java/mr/wordcount/writables/StartsWithCountJob_ObjectWritable.java
+END
+StartsWithCountJob_GenericWritable.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/148/trunk/JHU605.788/HadoopSamples/src/main/java/mr/wordcount/writables/StartsWithCountJob_GenericWritable.java
+END

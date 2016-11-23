@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/145/trunk/JHU605.788/HadoopSamples/src/main/java/hdfs
+END
+SimpleGlobbing.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/63/trunk/JHU605.788/HadoopSamples/src/main/java/hdfs/SimpleGlobbing.java
+END
+GenerateABigFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/63/trunk/JHU605.788/HadoopSamples/src/main/java/hdfs/GenerateABigFile.java
+END
+LsWithPathFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/63/trunk/JHU605.788/HadoopSamples/src/main/java/hdfs/LsWithPathFilter.java
+END
+WriteToFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/63/trunk/JHU605.788/HadoopSamples/src/main/java/hdfs/WriteToFile.java
+END
+BadRename.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/63/trunk/JHU605.788/HadoopSamples/src/main/java/hdfs/BadRename.java
+END
+DeleteFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/63/trunk/JHU605.788/HadoopSamples/src/main/java/hdfs/DeleteFile.java
+END
+CopyToHdfs.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/142/trunk/JHU605.788/HadoopSamples/src/main/java/hdfs/CopyToHdfs.java
+END
+SeekReadFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/63/trunk/JHU605.788/HadoopSamples/src/main/java/hdfs/SeekReadFile.java
+END
+BadWriteToFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/63/trunk/JHU605.788/HadoopSamples/src/main/java/hdfs/BadWriteToFile.java
+END
+MkDir.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/63/trunk/JHU605.788/HadoopSamples/src/main/java/hdfs/MkDir.java
+END
+SimpleLs.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/63/trunk/JHU605.788/HadoopSamples/src/main/java/hdfs/SimpleLs.java
+END
+LoadConfigurations.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/145/trunk/JHU605.788/HadoopSamples/src/main/java/hdfs/LoadConfigurations.java
+END
+ReadFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/63/trunk/JHU605.788/HadoopSamples/src/main/java/hdfs/ReadFile.java
+END

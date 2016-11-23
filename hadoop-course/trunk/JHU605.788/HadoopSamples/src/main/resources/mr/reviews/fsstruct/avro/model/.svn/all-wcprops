@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/88/trunk/JHU605.788/HadoopSamples/src/main/resources/mr/reviews/fsstruct/avro/model
+END
+review_report.avsc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/82/trunk/JHU605.788/HadoopSamples/src/main/resources/mr/reviews/fsstruct/avro/model/review_report.avsc
+END
+review.avsc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/87/trunk/JHU605.788/HadoopSamples/src/main/resources/mr/reviews/fsstruct/avro/model/review.avsc
+END
+review_key.avsc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/83/trunk/JHU605.788/HadoopSamples/src/main/resources/mr/reviews/fsstruct/avro/model/review_key.avsc
+END

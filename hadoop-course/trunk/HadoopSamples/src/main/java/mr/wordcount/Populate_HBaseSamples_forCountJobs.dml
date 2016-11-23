@@ -1,0 +1,19 @@
+# create family
+disable 'HBaseSamples'
+alter 'HBaseSamples', {NAME=>'count'}
+enable 'HBaseSamples'
+
+# insert rows for count
+put 'HBaseSamples', 'count001', 'count:word', 'Elephant'
+put 'HBaseSamples', 'count002', 'count:word', 'count'
+put 'HBaseSamples', 'count003', 'count:word', 'Updating'
+put 'HBaseSamples', 'count004', 'count:word', 'all'
+put 'HBaseSamples', 'count005', 'count:word', 'regions'
+put 'HBaseSamples', 'count006', 'count:word', 'with'
+put 'HBaseSamples', 'count007', 'count:word', 'the'
+put 'HBaseSamples', 'count008', 'count:word', 'new'
+put 'HBaseSamples', 'count009', 'count:word', 'updated'
+put 'HBaseSamples', 'count010', 'count:word', 'Done'
+put 'HBaseSamples', 'count011', 'count:word', 'seconds'
+put 'HBaseSamples', 'count012', 'count:word', 'row'
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/20/trunk/CDHInstall/singleNode/pig/conf
+END
+log4j.properties.template
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/20/trunk/CDHInstall/singleNode/pig/conf/log4j.properties.template
+END
+pig.properties
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/20/trunk/CDHInstall/singleNode/pig/conf/pig.properties
+END

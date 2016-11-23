@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/149/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/mf
+END
+MapFileFix.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/87/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/mf/MapFileFix.java
+END
+MfReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/149/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/mf/MfReader.java
+END
+MfByKeyReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/80/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/mf/MfByKeyReader.java
+END
+ReviewMfWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/80/trunk/JHU605.788/HadoopSamples/src/main/java/mr/reviews/fsstruct/mf/ReviewMfWriter.java
+END

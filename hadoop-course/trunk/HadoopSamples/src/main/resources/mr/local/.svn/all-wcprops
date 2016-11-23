@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/HadoopSamples/src/main/resources/mr/local
+END
+run-local-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/15/trunk/HadoopSamples/src/main/resources/mr/local/run-local-config.xml
+END

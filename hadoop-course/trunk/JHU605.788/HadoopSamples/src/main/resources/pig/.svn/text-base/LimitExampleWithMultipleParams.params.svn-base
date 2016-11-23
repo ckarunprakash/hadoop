@@ -1,0 +1,3 @@
+# LimitExampleWithMultipleParams.params
+PATH_TO_LOAD=/training/playArea/pig/excite-small.log
+LIMIT_NUM=4

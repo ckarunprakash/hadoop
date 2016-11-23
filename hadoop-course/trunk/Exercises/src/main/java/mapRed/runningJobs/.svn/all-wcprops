@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/29/trunk/Exercises/src/main/java/mapRed/runningJobs
+END
+CountTokens.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/29/trunk/Exercises/src/main/java/mapRed/runningJobs/CountTokens.java
+END
+ExpectProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/29/trunk/Exercises/src/main/java/mapRed/runningJobs/ExpectProperty.java
+END
+ExpectClassOnTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/29/trunk/Exercises/src/main/java/mapRed/runningJobs/ExpectClassOnTask.java
+END
+NeverEndingJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/29/trunk/Exercises/src/main/java/mapRed/runningJobs/NeverEndingJob.java
+END
+ExpectClassOnClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/29/trunk/Exercises/src/main/java/mapRed/runningJobs/ExpectClassOnClient.java
+END
